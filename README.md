@@ -1,14 +1,13 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 #SCREENSHOTS <br>
 <img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/cf481962-dd0e-4fbc-8f4b-c610b7a64e78" height="250">
-![Screenshot_1696420418](https://github.com/shravanbaghel/EnglishTalk/assets/48238406/cf481962-dd0e-4fbc-8f4b-c610b7a64e78)
-![Screenshot_1696420513](https://github.com/shravanbaghel/EnglishTalk/assets/48238406/33ff06f9-3183-48c6-bcc8-eb407409f3c9)
-![Screenshot_1696420519](https://github.com/shravanbaghel/EnglishTalk/assets/48238406/38ba5ab1-aa16-446b-a09f-de32fd8dbfdd)
-![Screenshot_1696420972](https://github.com/shravanbaghel/EnglishTalk/assets/48238406/4ff29dd5-068f-4ec5-bca6-038b41577442)
-![Screenshot_1696421016](https://github.com/shravanbaghel/EnglishTalk/assets/48238406/fc889264-d9a6-42cf-9baf-bd8998e81ac1)
-![Screenshot_1696421024](https://github.com/shravanbaghel/EnglishTalk/assets/48238406/75b84327-599b-429f-8bee-6826486e3adf)
-![Screenshot_1696421808](https://github.com/shravanbaghel/EnglishTalk/assets/48238406/8e7e90a2-fd37-4fda-98da-bf2275a9d8bf)
-![Screenshot_1696421822](https://github.com/shravanbaghel/EnglishTalk/assets/48238406/74db5b3d-82e3-4e86-8b18-6f4b62f9a179)
+<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/33ff06f9-3183-48c6-bcc8-eb407409f3c9" height="250">
+<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/38ba5ab1-aa16-446b-a09f-de32fd8dbfdd" height="250">
+<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/4ff29dd5-068f-4ec5-bca6-038b41577442" height="250">
+<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/fc889264-d9a6-42cf-9baf-bd8998e81ac1" height="250">
+<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/75b84327-599b-429f-8bee-6826486e3adf" height="250">
+<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/8e7e90a2-fd37-4fda-98da-bf2275a9d8bf" height="250">
+<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/74db5b3d-82e3-4e86-8b18-6f4b62f9a179" height="250">
 
 
 # Getting Started
