@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104788938188",
+    "project_id": "englishtalk-ada81",
+    "storage_bucket": "englishtalk-ada81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104788938188:android:3a14a9a987086d90b3a169",
+        "android_client_info": {
+          "package_name": "com.englishtalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASRls2GuFyh1RzuE04Vq9_a5aEhNHXCs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
