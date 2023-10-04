@@ -1,6 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).<br>
 #SCREENSHOTS <br>
-<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/cf481962-dd0e-4fbc-8f4b-c610b7a64e78" height="250">
+<img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/cf481962-dd0e-4fbc-8f4b-c610b7a64e78" height="250"><br>
 <img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/33ff06f9-3183-48c6-bcc8-eb407409f3c9" height="250">
 <img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/38ba5ab1-aa16-446b-a09f-de32fd8dbfdd" height="250">
 <img src="https://github.com/shravanbaghel/EnglishTalk/assets/48238406/4ff29dd5-068f-4ec5-bca6-038b41577442" height="250">
